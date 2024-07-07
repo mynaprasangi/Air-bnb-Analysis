@@ -8,3 +8,7 @@ The Airbnb Data Analysis and Visualization project is a comprehensive data explo
 2. Data Preprocessing: Cleaned and prepared the data for analysis.
 3. Exploratory Data Analysis (EDA): Performed in-depth analysis and visualization of Airbnb data.
 4. Interactive Streamlit UI: Developed a user-friendly interface for data exploration and presentation.
+## Getting Started
+1. Clone the repository:
+
+
