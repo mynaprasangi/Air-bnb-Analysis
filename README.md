@@ -11,4 +11,11 @@ The Airbnb Data Analysis and Visualization project is a comprehensive data explo
 ## Getting Started
 1. Clone the repository:
 
+https://github.com/mynaprasangi/Air-bnb-Analysis.git
+2. Run the Streamlit app:
+
+streamlit run app.py
+3. Access the app in your browser :
+
+http://localhost:8501
 
